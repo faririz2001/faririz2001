@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@fareeha.theanalyst](https://medium.com/@fareeha.theanalyst)
 
-- 💬 Ask me about **data analysts love a good challenge, so don't be afraid to ask me anything. Just be prepared for a long, technical explanation.**
+- 💬 Ask me about ** anything. Dont Hesitate, I love solving challenges. Just be prepared to Jazz up your game.**
 
 - 📫 How to reach me **fareeha.theanalyst@gmail.com**
 
